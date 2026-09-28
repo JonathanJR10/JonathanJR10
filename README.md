@@ -251,6 +251,14 @@ gantt
   <img src="https://ghchart.rshah.org/1B7F4B/JonathanJR10" alt="Calendario de contribuciones" width="100%" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonathanJR10/JonathanJR10/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JonathanJR10/JonathanJR10/output/github-snake.svg" />
+    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/JonathanJR10/JonathanJR10/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
 ---
 
 ## 📫 Contacto
