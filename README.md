@@ -244,7 +244,11 @@ gantt
 ## 📈 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanJR10&bg_color=0d1117&color=3DDC84&line=1B7F4B&point=ffffff&area=true&hide_border=true" alt="Gráfica de actividad" />
+  <img src="https://streak-stats.demolab.com?user=JonathanJR10&theme=dark&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84&sideLabels=FFFFFF&dates=9E9E9E&locale=es" alt="Rachas de contribución" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/1B7F4B/JonathanJR10" alt="Calendario de contribuciones" width="100%" />
 </p>
 
 ---
